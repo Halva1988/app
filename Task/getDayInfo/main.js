@@ -22,7 +22,7 @@ function getDayInfo(date) {
         }
     }
     week(day)
-
+    
     console.log(weekDay[i-1] + ', ' + weekNumber + ' неделя' + ' ' + month[monthInd] + ' ' + date[0] + ' года')
     
   }
